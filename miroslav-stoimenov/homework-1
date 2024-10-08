@@ -1,0 +1,21 @@
+## Homework-1
+
+### Add locators for the Login page
+
+- Find the locator for the
+  - whole Login form
+  - Email input field
+  - Password input field
+  - Proceed button
+  - "Email is required" error message element
+  - Logo image element
+
+### Add locators for the Sidebar component
+
+- Find the locator for the
+  - Planning Module link
+  - Risk Module link
+  - Control Module link
+  - Planning Calendar page link
+  - Control Jobs list link
+  - whole Sidebar element
